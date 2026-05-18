@@ -38,6 +38,9 @@ Civic Tech is the use of technology to empower citizens, improve government serv
 
 ## Civic Apps & Tools
 
+- [Gyeonggi Currency Map](https://gyeonggi-currency-map.web.app) - Interactive PWA mapping municipal local-currency merchant locations across all 31 cities of Gyeonggi Province, South Korea. Built on public open data with business-type filters, real-time "open now" toggle, and KakaoTalk share. Installable PWA, React + Vite + Leaflet on Firebase Hosting.
+- [GeoInfomatic - Living Zone Accessibility](https://geoinfomatic.pythonanywhere.com) - Isochrone-based neighborhood accessibility analyzer for South Korea. Walking or transit isochrones (10/20/30/45 min) overlaid with 8 facility types (subway, school, hospital, mart, park, gym, pharmacy, library, cafe). 100-point composite score with AI summary. No real-estate listings.
+
 - [SeeClickFix](https://seeclickfix.com/) – Allows residents to report non-emergency issues directly to local governments.
 - [Public Input](https://publicinput.com/) – Tools for online civic engagement and public consultation.
 - [Commonplace](https://www.commonplace.is/) – A platform for community consultation on urban planning and development.
